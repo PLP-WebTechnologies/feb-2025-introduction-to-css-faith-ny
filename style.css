@@ -1,0 +1,41 @@
+.main-heading{
+    color: #2c3e50;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:40px ;
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+#intro{
+    font-size: 20px;
+    color: #2c3e52;
+    padding: 5px 10px;
+    text-align: center;
+    line-height: 1.5;
+    
+}
+
+.styled-image{
+    width: 300px;
+    border: 5px solid #3498db;
+    border-radius: 20px;
+    display: block;
+    margin: 20px auto;
+    opacity: 90%;
+}
+
+.content-box{
+    background-color: #cf7f7f;
+    border: 2px solid #333;
+    padding: 15px;
+    margin: 20px auto;
+    width: 50%;
+    outline-style: dotted;
+    
+    
+}
+body{
+    background-color: #f9baba;
+    
+}
